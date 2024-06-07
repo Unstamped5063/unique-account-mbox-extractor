@@ -5,9 +5,6 @@ myenv/
 __pycache__/
 *.py[cod]
 
-# Ignore test mbox file (if you don't want to share it)
-test.mbox
-
 # Ignore other files
 *.log
 *.tmp
