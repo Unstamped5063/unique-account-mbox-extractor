@@ -1,0 +1,90 @@
+From MAILER-DAEMON Fri Jun  7 03:25:32 2024
+Content-Type: multipart/mixed; boundary="===============2149297922927811385=="
+MIME-Version: 1.0
+From: Sender One <sender1@example.com>
+To: Recipient One <recipient1@example.com>
+Subject: Welcome to our service!
+
+--===============2149297922927811385==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Thank you for signing up for our service.
+--===============2149297922927811385==--
+
+From MAILER-DAEMON Fri Jun  7 03:25:32 2024
+Content-Type: multipart/mixed; boundary="===============3550204484707091243=="
+MIME-Version: 1.0
+From: Sender Two <sender2@service.com>
+To: Recipient Two <recipient2@example.com>
+Subject: Please confirm your email address
+
+--===============3550204484707091243==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Click here to confirm your email address.
+--===============3550204484707091243==--
+
+From MAILER-DAEMON Fri Jun  7 03:25:32 2024
+Content-Type: multipart/mixed; boundary="===============2788836724036803488=="
+MIME-Version: 1.0
+From: Sender Three <sender3@anotherdomain.org>
+To: Recipient Three <recipient3@example.com>
+Subject: Account activation required
+
+--===============2788836724036803488==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Please activate your account by clicking this link.
+--===============2788836724036803488==--
+
+From MAILER-DAEMON Fri Jun  7 03:25:46 2024
+Content-Type: multipart/mixed; boundary="===============6352564561207984676=="
+MIME-Version: 1.0
+From: Sender One <sender1@example.com>
+To: Recipient One <recipient1@example.com>
+Subject: Welcome to our service!
+
+--===============6352564561207984676==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Thank you for signing up for our service.
+--===============6352564561207984676==--
+
+From MAILER-DAEMON Fri Jun  7 03:25:46 2024
+Content-Type: multipart/mixed; boundary="===============1347522381762092080=="
+MIME-Version: 1.0
+From: Sender Two <sender2@service.com>
+To: Recipient Two <recipient2@example.com>
+Subject: Please confirm your email address
+
+--===============1347522381762092080==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Click here to confirm your email address.
+--===============1347522381762092080==--
+
+From MAILER-DAEMON Fri Jun  7 03:25:46 2024
+Content-Type: multipart/mixed; boundary="===============8635510146858490027=="
+MIME-Version: 1.0
+From: Sender Three <sender3@anotherdomain.org>
+To: Recipient Three <recipient3@example.com>
+Subject: Account activation required
+
+--===============8635510146858490027==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Please activate your account by clicking this link.
+--===============8635510146858490027==--
+
